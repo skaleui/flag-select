@@ -1,0 +1,43 @@
+.flag-container {
+    width: 100%;
+}
+.section-1 {
+    width: 20%;
+    display:inline-block;
+    float: left;
+}
+.section-2{
+    width: 35%;
+    display:inline-block;
+    float: left;
+}
+
+.section-3 {
+    width: 35%;
+    display:inline-block;
+    float: left;
+    align:center;
+}
+.hide {
+    display:none;
+}
+
+.show {
+    display:inline-block;
+}
+
+.cont-select {
+    margin-top: 20px;
+    display:inline-block;
+
+}
+
+.clear-button {
+    width: 20%;
+    color: dodgerblue;
+    margin-top:100px;
+}
+
+.clearfix {
+   clear:both;
+}
